@@ -34,7 +34,7 @@
   
 ## 핵심 기능
 
-[API 명세](https://woowacourse-teams.github.io/2022-sokdak/backend/sokdak/src/main/resources/static/index.html)
+[API 명세](https://www.notion.so/API-28581683104281d59cc6e7b16890b8a9?source=copy_link)
 
 
 ## 😎 우리가 협업하는 법
