@@ -13,10 +13,10 @@ import org.springframework.stereotype.Component;
 @Component
 public class SmsUtil {
 
-    @Value("NCSXQAW1EOE6PNEA")
+    @Value("${coolsms.apikey}")
     private String apiKey;
 
-    @Value("DR6BYEDTDCW2YPROEGWI7K3KQRU2IWD3")
+    @Value("{coolsms.apisecret")
     private String apiSecret;
 
     private DefaultMessageService messageService;
